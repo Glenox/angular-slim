@@ -1,0 +1,13 @@
+{
+    "name": "diegocano/angularjs-slim-skeleton",
+    "require": {
+        "slim/slim": "^3.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "diegocano423",
+            "email": "dcanoc@ucenfotec.ac.cr"
+        }
+    ]
+}
